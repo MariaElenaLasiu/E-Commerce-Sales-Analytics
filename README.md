@@ -4,7 +4,7 @@
 
 The objective of this project is to develop an interactive Power BI dashboard to analyse e-commerce sales data, providing actionable insights on product performance, customer behaviour, and profitability. The dataset contains transactional sales records from an online retail store, covering purchases from customers across different regions.
 
-## Objective
+## Objectives
 
 The project addresses the following questions:
 
@@ -24,7 +24,7 @@ The project addresses the following questions:
 COMING SOON
 
 
-## Data Cleaning & Preprocessing
+## Data cleaning
 
 Before visualisation, the dataset was cleaned and transformed in Power Query:
 
@@ -35,7 +35,7 @@ Before visualisation, the dataset was cleaned and transformed in Power Query:
 - Checked for duplicate transactions and grouped data properly
 
 
-## Tools & Technologies Used
+## Tools & technologies used
 
 - 🔵 Power BI → Data visualization & dashboard design
 - 📊 Power Query → Data cleaning & transformation
