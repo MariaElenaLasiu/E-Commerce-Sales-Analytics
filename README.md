@@ -120,7 +120,6 @@ A **structured, professional data cleaning and transformation proces**s was exec
 
 
 ## Dashboard Preview
-https://github.com/user-attachments/assets/1bf4d5d1-c4bf-4b33-87a2-bf19e969391f
 
 
 ## How to access the dashboard
