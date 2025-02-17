@@ -19,22 +19,22 @@ The primary aim of this project is to extract meaningful insights from e-commerc
   
 **3.Customer Behaviour Insights**
 
-- Understanding purchasing habits and frequency.
-- Analysing new vs. returning customer trends.
-- Measuring customer retention and estimating Customer Lifetime Value (CLV).
+- Understanding purchasing habits and frequency
+- Analysing new vs. returning customer trends
+- Measuring customer retention and estimating Customer Lifetime Value (CLV)
 
 **4.Geographical Sales Distribution**
 
-- Identifying key revenue-contributing regions.
-- Assessing market concentration and growth opportunities.
+- Identifying key revenue-contributing regions
+- Assessing market concentration and growth opportunities
 
 
 ## Insights
 
 **1. Revenue & Profitability:**
 
-- **Total revenue:** £9.73M (Dec 2010 - Dec 2011), with a peak in November 2011.
-- **Total profits:** £3M, following a similar trend to revenue.
+- **Total revenue:** £9.73M (Dec 2010 - Dec 2011), with a peak in November 2011
+- **Total profits:** £3M, following a similar trend to revenue
 
 **2. Returns & Refunds:**
 
@@ -120,6 +120,7 @@ A **structured, professional data cleaning and transformation proces**s was exec
 
 
 ## Dashboard Preview
+![E-Commerce Sales Dashboard gif](https://github.com/user-attachments/assets/461a5f36-85d3-4976-b95b-ddeb84d2fd70)
 
 
 ## How to access the dashboard
