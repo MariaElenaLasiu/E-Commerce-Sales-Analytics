@@ -31,38 +31,52 @@ The primary aim of this project is to extract meaningful insights from e-commerc
 
 ## Insights
 
-**1. Revenue & Profitability:**
+**1. Revenue and profitability:**
 
-- **Total revenue:** £9.73M (Dec 2010 - Dec 2011), with a peak in November 2011
-- **Total profits:** £3M, following a similar trend to revenue
+  The total annual revenue reached **$9.73M**, with a **clear Q4 peak** driven by seasonal demand.   Profitability followed a similar trend, with **$3M in total profits**, highest in **November and December**. Weekly trends showed **Thursdays as the best-performing day**, while **Sundays had the lowest revenue**.
 
-**2. Returns & Refunds:**
+These trends suggest the need to:
+- **Increase inventory and marketing efforts** ahead of Q4 to capitalise on peak demand,
+- **Leverage Thursday**s for major promotions and explore **Sunday-exclusive incentives** to boost weaker performance.
 
-- **Total refunds**: £10M, indicating a high return rate, though it declines towards the year’s end.
+**2. Customer trends:**
 
-**3. Customer Trends:**
+  A total of **25K orders** were placed, with **4,373 customers** driving sales. Returning customers became a larger share of revenue over time, showing **strong loyalty trends**.
 
-- **Total customers**: 4,373, with a steady increase in returning customers. Indicates growing customer loyalty.
+It is advisable to: 
+- Introduce **loyalty programmes** to incentivise repeat purchases,
+- **Attract new customers** with first-time discounts or referral offers.
 
-**4. Best-Selling Products:**
+**3. Managing returns and refunds:**
 
-**Top revenue generator:** "Regency Cake Stand 3 Tier" (£163,348 in revenue).
+Refunds remain a **challenge**, totaling **$10M** and **spiking in Q4**, likely linked to holiday purchases.
 
-Other high-performing products:
+It remains key to:
+- **Identify frequently returned products** and investigate quality concerns,
+- Adjust **return policies** (e.g., restocking fees, clearer descriptions) to reduce revenue loss.
 
-- "White Hanging Heart T-Light Holder"
-- "Party Bunting"
-- "Jumbo Bag Red Retrospot"
-- "Rabbit Night Light"
+**4. Top revenue generator:** 
 
-**5. Geographical Performance:**
+The top-selling products included:
 
-- The UK dominates revenue contribution, followed by other European countries.
+1. **Regency cake stand 3 tier** – $163,347
+2. **White hanging heart t-light holder** – $99,298
+3. **Party bunting** – $97,972
+4. **Jumbo bag red retrospot** – $92,015
+5. **Rabbit night light** – $66,461
 
-**6. Sales Trends & Seasonality:**
+These products account for a significant share of total revenue, making inventory management and pricing optimisation key to sustaining profitability. To maximise their impact:
 
-- Thursday is the most profitable day of the week.
-- Q4 has the highest revenue, indicating strong seasonal effects.
+- **Ensure stock availability for top-performing products**, especially leading up to Q4,
+- **Optimise pricing strategies** to increase margins on high-demand items.
+
+**5. Geographical performance:**
+
+Regionally, the **UK dominates sales** (85% of total revenue - $8.24M), followed by **Netherlands** ($283K), **Ireland** ($259K), **Germany** ($200K), and **France** ($182K).
+
+While the UK remains the core market, there is **potential to** optimise domestic growth while strategically **expanding into high-performing EU markets**.
+
+
 
 
 ## Data cleaning
