@@ -122,15 +122,13 @@ A **structured, professional data cleaning and transformation proces**s was exec
 
 
 ## Upcoming steps
-**1. Enhancing Dashboard Design:** Improve the aesthetics for better readability.
+**1. Deeper Customer Behaviour Analysis:** Identify purchasing patterns and frequency.
 
-**2. Deeper Customer Behaviour Analysis:** Identify purchasing patterns and frequency.
+**2. Measuring Customer Retention:** Develop metrics to track long-term customer value (CLV).
 
-**3. Measuring Customer Retention:** Develop metrics to track long-term customer value (CLV).
+**3.Performance Optimisation:** Implement indexing, automated updates for aggregated tables, and refined deduplication methods.
 
-**4.Performance Optimisation:** Implement indexing, automated updates for aggregated tables, and refined deduplication methods.
-
-**5.Fraud & Return Analysis:** Develop KPIs to track return rates and suspicious return behaviour.
+**4.Fraud & Return Analysis:** Develop KPIs to track return rates and suspicious return behaviour.
 
 
 ## Dashboard Preview
