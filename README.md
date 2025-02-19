@@ -4,6 +4,8 @@
 
 This project involves the development of an **interactive Power BI dashboard** to analyse e-commerce sales data, providing actionable insights on **product performance, customer behaviour, and profitability**. The dataset contains transactional sales records from an online retail store, covering purchases from customers across different regions.
 
+![E-Commerce Sales Dashboard gif](https://github.com/user-attachments/assets/461a5f36-85d3-4976-b95b-ddeb84d2fd70)
+
 ## Objectives
 
 The primary aim of this project is to extract meaningful insights from e-commerce sales data to support data-driven decision-making. The analysis focuses on:
@@ -129,10 +131,6 @@ A **structured, professional data cleaning and transformation proces**s was exec
 **3.Performance Optimisation:** Implement indexing, automated updates for aggregated tables, and refined deduplication methods.
 
 **4.Fraud & Return Analysis:** Develop KPIs to track return rates and suspicious return behaviour.
-
-
-## Dashboard Preview
-![E-Commerce Sales Dashboard gif](https://github.com/user-attachments/assets/461a5f36-85d3-4976-b95b-ddeb84d2fd70)
 
 
 ## How to access the dashboard
